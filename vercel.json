@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/diwali.html"
+            "destination": "/foodmunch.html"
         }
     ]
 }
